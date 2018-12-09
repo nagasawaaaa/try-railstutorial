@@ -27,4 +27,5 @@ end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # TODO: Heroku ユーザー登録
+# https://railstutorial.jp/chapters/beginning?version=5.1#sec-heroku_setup
 # j01YYWiKAkzlbTS5
