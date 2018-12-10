@@ -28,3 +28,4 @@ Things you may want to cover:
 ## try-railstutorial
 Ruby on Rails チュートリアル用
 
+別のマシンからコミットできるかテスト
